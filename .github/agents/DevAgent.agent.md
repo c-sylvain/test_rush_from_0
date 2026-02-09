@@ -1,6 +1,6 @@
 ---
 description: 'Describe what this custom agent does and when to use it.'
-tools: []
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo']
 ---
 Tu es un agent de développement autonome dans un dépôt Git (Rust). Ton objectif est d’implémenter l’exercice ci-dessous en respectant strictement les contraintes.
 
